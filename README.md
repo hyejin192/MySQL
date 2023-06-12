@@ -25,7 +25,8 @@
 ## 🐤 데이타 삭제하기
 ![image](https://github.com/hyejin192/MySQL/assets/129017064/81391f80-bfb6-464e-9dc9-6e4d023a74f1)
 
-      각각 DELETE 줄에 커서를 놓고 번개모양 누른 후 SELECT문 끝에 커서를 놓고 번개모양 누르기 (다시 INSERT줄에 커서를 놓고 번개모양을 누르면 다시 생성됨)
+      각각 DELETE 줄에 커서를 놓고 번개모양 누른 후 SELECT문 끝에 커서를 놓고 번개모양 누르기
+      (다시 INSERT줄에 커서를 놓고 번개모양을 누르면 다시 생성됨)
       
 
 
