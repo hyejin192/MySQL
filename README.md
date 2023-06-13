@@ -30,5 +30,8 @@
 ### 대문자 변형하기      
 ![image](https://github.com/hyejin192/MySQL/assets/129017064/7fb915cd-9943-4bdf-a88a-55e838714662)
 
+![image](https://github.com/hyejin192/MySQL/assets/129017064/ea2be7a7-b612-4fc2-aec8-6987c8bece65)
+
+      한번에 여러개 추가할 땐 ,찍고 요소 추가
 
 
