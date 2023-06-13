@@ -33,5 +33,9 @@
 ![image](https://github.com/hyejin192/MySQL/assets/129017064/ea2be7a7-b612-4fc2-aec8-6987c8bece65)
 
       한번에 여러개 추가할 땐 ,찍고 요소 추가
+      
+
+![image](https://github.com/hyejin192/MySQL/assets/129017064/51c04d65-7ee7-4013-8498-61aa75099e39)
+
 
 
