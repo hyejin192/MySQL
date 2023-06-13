@@ -27,6 +27,8 @@
 
       각각 DELETE 줄에 커서를 놓고 번개모양 누른 후 SELECT문 끝에 커서를 놓고 번개모양 누르기
       (다시 INSERT줄에 커서를 놓고 번개모양을 누르면 다시 생성됨)
-      
+### 대문자 변형하기      
+![image](https://github.com/hyejin192/MySQL/assets/129017064/7fb915cd-9943-4bdf-a88a-55e838714662)
+
 
 
