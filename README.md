@@ -37,5 +37,18 @@
 
 ![image](https://github.com/hyejin192/MySQL/assets/129017064/51c04d65-7ee7-4013-8498-61aa75099e39)
 
+![image](https://github.com/hyejin192/MySQL/assets/129017064/a2cf80ba-5623-4b37-b967-940a5965e0e1)
+
+## 쿼리문의 순서(구해오리)
+SELECT 열이름
+FROM 테이블이름
+WHERE 조건문
+GROUP BY 열이름
+HAVING 조건문 
+ORDER BY 열이름
+LIMIT 숫자; : 출력하는 갯수를 제한
+![image](https://github.com/hyejin192/MySQL/assets/129017064/f6ac3fa7-0296-4aa4-a76f-43f3e3c3b2c1)
+
+
 
 
