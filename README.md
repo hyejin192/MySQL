@@ -54,13 +54,19 @@ LIMIT 숫자; >
 ![image](https://github.com/hyejin192/MySQL/assets/129017064/f6ac3fa7-0296-4aa4-a76f-43f3e3c3b2c1)
 
 
-# 포트죽이기
+# 포트죽이기(실패)
 ![image](https://github.com/hyejin192/MySQL/assets/129017064/502b2b2c-85e5-4645-a33c-837a30573c73)
 
       netstat -a -o
 ![image](https://github.com/hyejin192/MySQL/assets/129017064/73d0388f-8ad9-4bc2-bcfe-1ffe380589a5)
 
       taskkill /f /pid 5056
+
+# mysql 삭제 후 실행
+![image](https://github.com/hyejin192/MySQL/assets/129017064/d45be076-bbc4-433e-bdfe-17098032c8a3)
+
+      c폴더 안에 pagedata 안에 있는 sql을 지우고 cmd에 sc delete mysql 실행
+
 
 
 
