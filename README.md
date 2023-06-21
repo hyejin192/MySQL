@@ -67,9 +67,7 @@ LIMIT 숫자; >
 
       c폴더 안에 pagedata 안에 있는 sql을 지우고 cmd에 sc delete mysql 실행
 
-# phpMyAdmin
-      
-      http://localhost/phpmyadmin/
+
 
 
 
